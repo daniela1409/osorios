@@ -1,0 +1,24 @@
+.card{
+    background: none;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    margin-top: 15%;
+}
+
+
+.card input{
+    color: gray;
+}
+
+#link{
+    color: cadetblue;
+}
+
+#link:hover{
+    background-color: white;
+    color: mediumblue;
+}
+
+
+

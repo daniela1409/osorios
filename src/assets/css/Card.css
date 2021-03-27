@@ -1,0 +1,24 @@
+#card{
+    border: none;
+    border-radius: 8px;
+    width: 100%;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background: lightgray;
+    
+}
+
+img{
+    width: 130px;
+    height: 130px;
+    margin-top: 0%;
+    border-radius: 8px;
+}
+
+#header {
+    background: #000080;
+    color: white;
+    width: 100%;
+}
+
